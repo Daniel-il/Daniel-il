@@ -9,7 +9,7 @@
       Вёрстка: HTML, CSS, БЭМ, препроцессоры(Sass, SCSS)
   </li>
    <li>
-      Фронтенд: JavaScript, TypeScript, React, React, Redux-Thunk
+      Фронтенд: JavaScript, TypeScript, React, React Redux
   </li>
   <li>
       Тестирование: Jest, Cypress
