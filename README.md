@@ -3,9 +3,8 @@
 
 - 🌱 I'm about to learn **Vue, Angular**
 
-- 📫 How to reach me **ilyinwork05@gmail.com** or [Telegram](https://t.me/Daniel_Ilyin)
+- 📫 How to reach me: **ilyinwork05@gmail.com** or [Telegram](https://t.me/Daniel_Ilyin)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
